@@ -1,4 +1,4 @@
-# kashy_elk_docker
+# KashY_elk_docker
 
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-8.13.4-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
