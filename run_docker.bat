@@ -1,0 +1,1 @@
+docker-compose --env-file skadi.env up -d
