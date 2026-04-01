@@ -1,5 +1,6 @@
 volumes:
   data:
+  logstash_sincedb:
 
 name: skadi
 
